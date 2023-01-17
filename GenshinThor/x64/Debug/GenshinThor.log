@@ -1,0 +1,6 @@
+﻿  GenshinThor.cpp
+  utils.cpp
+D:\VSProjects\GenshinThor\GenshinThor\utils.cpp(94,39): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\VSProjects\GenshinThor\GenshinThor\utils.cpp(93,8): warning C4101: “msg”: 未引用的局部变量
+  正在生成代码...
+  GenshinThor.vcxproj -> D:\VSProjects\GenshinThor\GenshinThor\x64\Debug\GenshinThor.exe
